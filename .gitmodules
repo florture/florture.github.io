@@ -1,0 +1,3 @@
+[submodule "app/dbd-man-statistic"]
+	path = app/dbd-man-statistic
+	url = https://github.com/florture/dbd-man-statistic.git
